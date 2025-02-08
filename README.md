@@ -12,7 +12,7 @@ This project sets up a complete web infrastructure using:
 - **Let's Encrypt** for SSL certificates
 
 ### Proof of Implementation
-![Infrastructure as Code Implementation](ansible/configuration-management/images/iac.png)
+![Infrastructure as Code Implementation](images/iac.png)
 
 ### Architecture
 
